@@ -1,0 +1,3 @@
+[submodule "smod"]
+	path = smod
+	url = https://github.com/ljaspaert/smod.git
